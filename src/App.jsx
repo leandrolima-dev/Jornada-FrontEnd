@@ -1,7 +1,6 @@
-import { useState } from "react";
+import { useEffect ,useState } from "react";
 import "./App.css";
 import Card from "./components/Card/Card";
-import { useEffect } from "react";
 
 function App() {
   // const item1 = {

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import "./Card.css";
 import Tag from "../Tag/Tag";
 export default function Card(props) {

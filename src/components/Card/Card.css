@@ -1,3 +1,10 @@
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  gap: 2rem;
+}
 .card {
     border: 1px solid #FFFFFF;
     padding: 1rem;

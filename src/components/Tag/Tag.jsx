@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import "./Tag.css";
 export default function Tag(props) {
   const tag = props.tag

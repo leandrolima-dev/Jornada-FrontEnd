@@ -38,9 +38,11 @@ function App() {
 
   return (
     <>
+      <div className="card-list">
       {itens.map(function (item, index) {
         return <Card key={index} item={item} />;
       })}
+      </div>
     </>
   );
 }

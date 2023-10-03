@@ -3,7 +3,7 @@
   flex-wrap: wrap;
   justify-content: center;
   text-align: center;
-  gap: 2rem;
+  gap: 1rem;
 }
 .card {
     border: 1px solid #FFFFFF;
@@ -28,4 +28,8 @@
     height: 200px;
     object-fit: cover;
   }
-  
+  @media screen and (max-width: 380px) {
+    .card {
+      width: 85%;
+    }
+  }

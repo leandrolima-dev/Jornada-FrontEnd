@@ -2,8 +2,8 @@ import "./Header.css";
 export default function Header() {
   return (
     <header className="header">
-      <div>
-        <a href="/" className="logo-link">
+      <div className="logo-brand">
+        <a href="/">
           <img src="https://oceanbrasil.com/assets/logo.svg" 
           alt="Logo do Ocean BR" />
         </a>

@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: #FFFFFF;
+  margin-bottom: 1rem;
+}
+.header > .logo-link {
+  display: flex;
+}
+.navbar > ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}

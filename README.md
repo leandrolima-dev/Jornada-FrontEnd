@@ -38,5 +38,10 @@ Você também pode visualizar o projeto rodando na Vercel através do seguinte l
 ## Imagens do Projeto
 Aqui estão duas imagens da página do projeto rodando na Vercel e mostrando os personagens:
 
-![Imagem 1](^i^)
-![Imagem 2](^i^)
+<p align="center">
+  <img alt="Imgaem do site desktop" src="src/assets/preview_desktop.png" width="100%">
+</p>
+
+<p align="center">
+  <img alt="Imagem do site iPad" src="src/assets/preview_mobile_iPad.png" width="100%">
+</p>
